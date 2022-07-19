@@ -7,4 +7,4 @@
 
 ## 💻  Projeto
 
-<img src="./projeto.png" width="600px" height="400" style="margin:25px"> 
+        <img src="./projeto.png" width="600px" height="400"> 
